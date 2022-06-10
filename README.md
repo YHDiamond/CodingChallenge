@@ -1,0 +1,2 @@
+# Coding Challenge
+This project was a coding challenge for interviewing at a company for a summer internship. It is a webserver that allows you to access numerous aircraft by registration and other attributes. You can read the docs [here](./DOCS.md).
